@@ -24,7 +24,7 @@ deb https://www.php.net/downloads.php buster-updates main
 deb-src https://www.php.net/downloads.php buster-updates main
 
 Чтобы добавить репозитории необходимо ввести следующую команду:
-nano /etc/apt/sources.list
+nano /etc/apt/sources.list <br>
 Откроется редактор. Введите репозитории и затем нажмите Ctrl+O - сохранить файл; нажмите Enter, чтобы сохранить в том же файле.
 Ctrl+X - exit.
 
