@@ -30,7 +30,7 @@ nano /etc/apt/sources.list <br>
 Ctrl+X - exit.<br>
 
 <p>Пример редактора nano (вроде бы это Debian 9)</p>
-<img src="https://ibb.co/pXdQRN9">
+<img src="https://i.yapx.ru/J9AFL.jpg">
 <br>
 Затем попробуйте заново установить нужные вам утилиты.
 
