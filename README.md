@@ -27,9 +27,13 @@ deb-src https://www.php.net/downloads.php buster-updates main
 Чтобы добавить репозитории необходимо ввести следующую команду:
 nano /etc/apt/sources.list <br>
 <b>Откроется редактор</b>. Введите репозитории и затем нажмите Ctrl+O - сохранить файл; нажмите Enter, чтобы сохранить в том же файле.
-Ctrl+X - exit.
-<img src="https://musaamin.web.id/wp-content/uploads/2019/04/01.cara-setting-repository-debian-9-server_apt-sources-list-min.jpg">
+Ctrl+X - exit.<br>
 
+<p>Пример редактора nano (вроде бы это Debian 9)</p>
+<img src="https://musaamin.web.id/wp-content/uploads/2019/04/01.cara-setting-repository-debian-9-server_apt-sources-list-min.jpg">
+<br>
 Затем попробуйте заново установить нужные вам утилиты.
 
 Как только необходимые утилиты будут установлены, повторите установку phoronix-test-suite.
+
+
