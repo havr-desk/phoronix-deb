@@ -23,10 +23,12 @@ deb-src https://www.php.net/downloads.php buster main
 deb https://www.php.net/downloads.php buster-updates main
 deb-src https://www.php.net/downloads.php buster-updates main
 
+#Как добавить репозитории?#
 Чтобы добавить репозитории необходимо ввести следующую команду:
 nano /etc/apt/sources.list <br>
 <b>Откроется редактор</b>. Введите репозитории и затем нажмите Ctrl+O - сохранить файл; нажмите Enter, чтобы сохранить в том же файле.
 Ctrl+X - exit.
+<img src="https://musaamin.web.id/wp-content/uploads/2019/04/01.cara-setting-repository-debian-9-server_apt-sources-list-min.jpg">
 
 Затем попробуйте заново установить нужные вам утилиты.
 
